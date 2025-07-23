@@ -23,7 +23,7 @@ avatar_image: /img/Profile Picutre.jpg
 #-------------------------------
 # Contact links
 linkedln: "https://www.linkedin.com/in/thomas-leatham-3147981b9/" # Add your linkedln handle
-github: "https://github.com/#"  # Add your github handle
+github: "https://https://github.com/ThomasALeatham#"  # Add your github handle
 
 paginate: 6
 paginate_path: "/page/:num"
